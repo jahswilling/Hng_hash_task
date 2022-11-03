@@ -17,6 +17,6 @@ To run the create_hash_all.py that runs for only one team, format your CSV file 
 ```
 $ python3 create_hash_all.py
 ```
-The script will generate a modified file (Modified_HNGi9_all_teams.csv) with a json hash in a new column at the end, and the hashed json files will be saved in the json files folder. Currently the script handles the name,gender,description, and uuid for each team, but can be update subsequently when the team data is updated. The attribute field is present but the data format is not yet consistent to work with.
+The script will generate a modified file (Modified_HNGi9_all_teams.csv) with a json hash in a new column at the end, and the hashed json files will be saved in the json files folder as the team name and uuid. Currently the script handles the name,gender,description, and uuid for each team, but can be update subsequently when the team data is updated. The attribute field is present but the data format is not yet consistent to work with.
 
 
