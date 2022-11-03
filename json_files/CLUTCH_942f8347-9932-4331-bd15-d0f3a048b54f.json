@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "942f8347-9932-4331-bd15-d0f3a048b54f",
+    "name": "sinzu money",
+    "gender": "male",
+    "description": "sinzu loves spending money on flashy things",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

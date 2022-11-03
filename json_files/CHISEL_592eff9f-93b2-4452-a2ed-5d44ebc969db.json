@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "592eff9f-93b2-4452-a2ed-5d44ebc969db",
+    "name": "hamzat the mallam",
+    "gender": "male",
+    "description": "Hamsat is a mallam that changes money",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

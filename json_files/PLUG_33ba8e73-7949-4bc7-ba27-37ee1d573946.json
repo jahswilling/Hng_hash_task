@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "33ba8e73-7949-4bc7-ba27-37ee1d573946",
+    "name": "kerubo the igbo smoker",
+    "gender": "male",
+    "description": "Loves only his igbo and is happy when he finds an old blunt",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

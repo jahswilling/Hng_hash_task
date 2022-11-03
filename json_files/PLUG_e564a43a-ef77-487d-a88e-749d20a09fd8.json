@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "e564a43a-ef77-487d-a88e-749d20a09fd8",
+    "name": "lenusuka the big woman",
+    "gender": "female",
+    "description": "The lady that loves spending money and buying everybody asaobi",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

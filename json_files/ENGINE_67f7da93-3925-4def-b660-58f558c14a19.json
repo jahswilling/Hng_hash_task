@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "67f7da93-3925-4def-b660-58f558c14a19",
+    "name": "wangu calaba hustler",
+    "gender": "Female",
+    "description": "she's a mean hustler so be careful",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

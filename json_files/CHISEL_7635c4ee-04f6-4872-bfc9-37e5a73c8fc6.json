@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "7635c4ee-04f6-4872-bfc9-37e5a73c8fc6",
+    "name": "tunde the boss",
+    "gender": "male",
+    "description": "Tunde is a boss that orders her helps around",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

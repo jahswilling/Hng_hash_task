@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "09ff910d-a2be-49d5-8b27-b9378458701c",
+    "name": "bola the bosslady",
+    "gender": "female",
+    "description": "Bola commands boys and chill with men",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

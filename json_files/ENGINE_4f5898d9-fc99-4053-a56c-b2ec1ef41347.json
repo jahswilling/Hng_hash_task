@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "4f5898d9-fc99-4053-a56c-b2ec1ef41347",
+    "name": "bree busy gossip",
+    "gender": "Female",
+    "description": "never wisper your secrets to her, except you want the world to know",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ede85f90-5abd-11ed-9b6a-0242ac120002",
+    "name": "uju robo robo",
+    "gender": "female",
+    "description": "An aso-oke business woman at balogun market",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c52d4fbb-622b-4e2b-85a9-1a1d0f3d97d6",
+    "name": "Desmond the politician",
+    "gender": "Male",
+    "description": "A young politician who just became a minister",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

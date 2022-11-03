@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "26340cc4-e334-494e-a737-f2b4bb9bb22e",
+    "name": "Olofi",
+    "gender": "Male",
+    "description": "Olofi is the Yoruba creator god and messenger.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "fdfff369-5b57-4612-9f89-f5d408f24a35",
+    "name": "sai baba",
+    "gender": "female",
+    "description": "bts leader of 3rd world",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "87ada09b-38ac-475c-8d46-18680c2dc795",
+    "name": "Mensah fashion icon",
+    "gender": "Male",
+    "description": "Mensah outfits are always giving us Christopher Hemsworth vibes.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

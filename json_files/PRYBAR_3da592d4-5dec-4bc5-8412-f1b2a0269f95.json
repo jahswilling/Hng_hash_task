@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "3da592d4-5dec-4bc5-8412-f1b2a0269f95",
+    "name": "tobi babyboy",
+    "gender": "male",
+    "description": "he's currently in his babyboy era",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

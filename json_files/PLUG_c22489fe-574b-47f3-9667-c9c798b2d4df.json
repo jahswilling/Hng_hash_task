@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c22489fe-574b-47f3-9667-c9c798b2d4df",
+    "name": "zawadi mr sleep everywhere",
+    "gender": "male",
+    "description": "Likes sleeping in the weirdest places especially in clubs",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

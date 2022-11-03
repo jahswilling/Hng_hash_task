@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "7348c9ed-4ac9-4785-9434-0a1f0dcaf8d8",
+    "name": "wamenza the winner",
+    "gender": "female",
+    "description": "wamenza the leader",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

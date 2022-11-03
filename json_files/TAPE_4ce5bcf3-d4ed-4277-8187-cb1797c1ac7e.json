@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "4ce5bcf3-d4ed-4277-8187-cb1797c1ac7e",
+    "name": "nene caroline",
+    "gender": "Female",
+    "description": "A housewife that loves taking care of her family",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

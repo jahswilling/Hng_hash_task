@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c2d6a3ac-1d4d-4268-ba7f-4f0f8f50c1ab",
+    "name": "omunyinyi the stoic",
+    "gender": "male",
+    "description": "omunyinyi wears a Kitenge coat",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

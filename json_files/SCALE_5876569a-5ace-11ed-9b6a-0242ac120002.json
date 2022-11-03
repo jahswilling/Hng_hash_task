@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "5876569a-5ace-11ed-9b6a-0242ac120002",
+    "name": "hilda the insomaniac",
+    "gender": "Female",
+    "description": "Hilda prefers to sleep during the day",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

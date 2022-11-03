@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "f2957ded-022c-4b07-92c6-b345d4816a67",
+    "name": "salam the odogwu",
+    "gender": "male",
+    "description": "salam is a big time textile marketer always sourcing for quality materials",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

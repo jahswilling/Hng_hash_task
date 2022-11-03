@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "bfb6446e-59ca-11ed-9b6a-0242ac120002",
+    "name": "Stephen bluecap",
+    "gender": "male",
+    "description": "Stephen always wears blue cap even to the church",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

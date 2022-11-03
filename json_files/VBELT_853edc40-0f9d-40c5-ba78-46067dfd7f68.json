@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "853edc40-0f9d-40c5-ba78-46067dfd7f68",
+    "name": "amaka our mummy g.o",
+    "gender": "Female",
+    "description": "Here's Amaka, our one and only mummy G.O who's been to hell and back.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

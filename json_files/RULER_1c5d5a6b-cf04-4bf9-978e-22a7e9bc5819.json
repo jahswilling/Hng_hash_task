@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1c5d5a6b-cf04-4bf9-978e-22a7e9bc5819",
+    "name": "tola the businessman",
+    "gender": "female",
+    "description": "Tola loves business and owns several shops in idumota",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

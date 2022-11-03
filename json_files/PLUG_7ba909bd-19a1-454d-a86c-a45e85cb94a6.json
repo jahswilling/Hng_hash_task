@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "7ba909bd-19a1-454d-a86c-a45e85cb94a6",
+    "name": "nekesa the brainbox",
+    "gender": "male",
+    "description": "A proposed elite who cannot write a simple speech",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

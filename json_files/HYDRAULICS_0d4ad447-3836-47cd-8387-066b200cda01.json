@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "0d4ad447-3836-47cd-8387-066b200cda01",
+    "name": "James the musician",
+    "gender": "Male",
+    "description": "A yoruba juju artist",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "43c49497-8d7b-42ef-bb29-769f6c3b0ada",
+    "name": "Chiamaka the dancer",
+    "gender": "Female",
+    "description": "Chiamaka dances so well and earned the Guinness world record.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

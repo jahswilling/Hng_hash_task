@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "311a6713-66c9-43ce-82d8-e3ce03a87a81",
+    "name": "Agwu",
+    "gender": "Male",
+    "description": "Agwu is the Igbo deity of health and divination.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "b0310fc2-4bed-48e5-abfc-566c964786d7",
+    "name": "Kunle the hunter",
+    "gender": "Male",
+    "description": "Kunle goes for the best and hits all his targets at bull's eye",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

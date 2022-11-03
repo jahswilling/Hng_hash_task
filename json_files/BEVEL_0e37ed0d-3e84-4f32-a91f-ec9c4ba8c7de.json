@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "0e37ed0d-3e84-4f32-a91f-ec9c4ba8c7de",
+    "name": "aminat the snnobish",
+    "gender": "female",
+    "description": "Aminat never really wants to talk to anyone.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

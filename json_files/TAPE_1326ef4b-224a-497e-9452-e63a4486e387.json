@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1326ef4b-224a-497e-9452-e63a4486e387",
+    "name": "aunty toyin",
+    "gender": "Female",
+    "description": "An oversabi family member",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

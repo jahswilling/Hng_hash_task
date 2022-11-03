@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "df7dc588-f99c-4592-84f6-08b40047d9d1",
+    "name": "goofy simbi",
+    "gender": "Female",
+    "description": "An eccentric teenager that loves music",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

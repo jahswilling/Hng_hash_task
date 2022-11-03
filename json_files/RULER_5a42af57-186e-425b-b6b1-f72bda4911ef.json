@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "5a42af57-186e-425b-b6b1-f72bda4911ef",
+    "name": "danjuma-the-saddist",
+    "gender": "male",
+    "description": "Danjuma is a grumpy man no one likes to associate with him",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

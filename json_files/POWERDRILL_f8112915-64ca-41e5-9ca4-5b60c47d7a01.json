@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "f8112915-64ca-41e5-9ca4-5b60c47d7a01",
+    "name": "Paul the comedian",
+    "gender": "Male",
+    "description": "Paul trying hard to make everyone laugh so hard and fall off the chair",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

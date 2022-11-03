@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "3b3e1f66-922b-4f87-8cdb-0d09fc143182",
+    "name": "tope the influencer",
+    "gender": "Female",
+    "description": "tope is a famous influencer. loved by his followers which keep growing everyday",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

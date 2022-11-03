@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "22541251-022f-480c-8c1e-cf754dce16d6",
+    "name": "james importer and exporter",
+    "gender": "Male",
+    "description": "Sole importer and exporter of spare parts in Africa ",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

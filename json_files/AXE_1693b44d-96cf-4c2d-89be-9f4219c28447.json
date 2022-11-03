@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1693b44d-96cf-4c2d-89be-9f4219c28447",
+    "name": "Yemoja",
+    "gender": "Female",
+    "description": "Yemoja is the stylish yoruba goddess of the rivers.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

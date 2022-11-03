@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "66a09968-cb92-4378-a588-49947f68c537",
+    "name": "dogbeda the monger",
+    "gender": "male",
+    "description": "A fisherman who pracitically live in the river",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

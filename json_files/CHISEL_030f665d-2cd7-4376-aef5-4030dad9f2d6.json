@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "030f665d-2cd7-4376-aef5-4030dad9f2d6",
+    "name": "Ifeanyi the dj",
+    "gender": "male",
+    "description": "Ifeanyi is a music dj that performs at events",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

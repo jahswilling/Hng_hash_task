@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d1476409-6f8b-4be9-8c93-24d9123749c5",
+    "name": "udeme great",
+    "gender": "female",
+    "description": "an alcoholic",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

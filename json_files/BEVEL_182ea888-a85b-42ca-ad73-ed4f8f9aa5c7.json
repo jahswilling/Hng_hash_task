@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "182ea888-a85b-42ca-ad73-ed4f8f9aa5c7",
+    "name": "chioma pretty girl",
+    "gender": "female",
+    "description": "Chioma's face card is a 100.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

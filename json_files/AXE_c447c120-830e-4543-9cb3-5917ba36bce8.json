@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c447c120-830e-4543-9cb3-5917ba36bce8",
+    "name": "Obatala",
+    "gender": "Male",
+    "description": "Obatala is the lord of all gods in the Yoruba land.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

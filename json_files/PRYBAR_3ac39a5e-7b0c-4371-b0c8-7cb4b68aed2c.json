@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "3ac39a5e-7b0c-4371-b0c8-7cb4b68aed2c",
+    "name": "erigga international",
+    "gender": "female",
+    "description": "Super star from south-south",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

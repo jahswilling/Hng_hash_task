@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "f0558235-3043-46e5-b26c-5bde83cc67fb",
+    "name": "bekeh the party animal",
+    "gender": "Female",
+    "description": "Baby Bekeh, Life of the party that goes home with your charger.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c1070dce-48a1-4ae8-b9a4-d070859a8377",
+    "name": "akinyim the agbaya",
+    "gender": "female",
+    "description": "Always playing with small childrens and mostly small girls",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

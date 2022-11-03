@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "5a5a6f5c-39f3-4beb-ab74-60d3c7a90fd4",
+    "name": "viganem the drummer girl",
+    "gender": "female",
+    "description": "she loves jumping a fence to play drums after school",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

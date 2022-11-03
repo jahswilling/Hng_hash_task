@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "98035e8b-6540-4464-8a3c-fdac9f07b168",
+    "name": "mary with hair",
+    "gender": "Female",
+    "description": "Mary with her beautiful Afro ",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

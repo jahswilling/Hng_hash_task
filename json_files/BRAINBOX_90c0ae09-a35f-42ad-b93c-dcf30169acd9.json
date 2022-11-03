@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "90c0ae09-a35f-42ad-b93c-dcf30169acd9",
+    "name": "johnathan genz kid",
+    "gender": "Male",
+    "description": "A child of the moment , all fun and cruise ",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

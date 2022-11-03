@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "9dfe30b4-c71a-471c-8091-f5c4a238eed8",
+    "name": "nell light embrace",
+    "gender": "Female",
+    "description": "she is an empath: ready with a kind word or hug",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

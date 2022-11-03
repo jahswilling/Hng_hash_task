@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "bfb645a4-59ca-11ed-9b6a-0242ac120002",
+    "name": "Tinubu gateman",
+    "gender": "male",
+    "description": "Tinubu has been a gateman all his life. He was born to a gateman and his child will be a gateman",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

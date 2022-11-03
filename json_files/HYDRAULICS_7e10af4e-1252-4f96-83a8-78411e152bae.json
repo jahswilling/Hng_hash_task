@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "7e10af4e-1252-4f96-83a8-78411e152bae",
+    "name": "Saro the clothemaker",
+    "gender": "Male",
+    "description": "The yoruba man that stole the king's wife.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

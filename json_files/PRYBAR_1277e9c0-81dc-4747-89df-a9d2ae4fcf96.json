@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1277e9c0-81dc-4747-89df-a9d2ae4fcf96",
+    "name": "phoebe queen bee",
+    "gender": "female",
+    "description": "a self-centered woman, only thinks about herself",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

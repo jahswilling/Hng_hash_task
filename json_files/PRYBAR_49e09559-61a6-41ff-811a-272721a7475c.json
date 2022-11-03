@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "49e09559-61a6-41ff-811a-272721a7475c",
+    "name": "omo pastor",
+    "gender": "female",
+    "description": "a woman with the morals of a man",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

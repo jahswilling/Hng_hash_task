@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "23b6c38f-ab84-4565-bfe9-d9eb019c9f29",
+    "name": "lulu dey kpako",
+    "gender": "Female",
+    "description": "she's as skinny as she is beautiful",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

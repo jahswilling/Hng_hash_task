@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "bd98f74f-e42e-494e-8298-3183555ca666",
+    "name": "saka portable",
+    "gender": "male",
+    "description": "Saka is forever convinced that his toothless smile is the icing on his cake.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

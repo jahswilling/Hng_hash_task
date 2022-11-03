@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ede86c2e-5abd-11ed-9b6a-0242ac120002",
+    "name": "saro texaco",
+    "gender": "male",
+    "description": "An oil tycoon who dominates",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

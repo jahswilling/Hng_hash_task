@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1a91e778-d214-476b-a667-94e9ecb8b5ce",
+    "name": "chepkirui mr self love",
+    "gender": "male",
+    "description": "Likes taking care of himself and spending on himself",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

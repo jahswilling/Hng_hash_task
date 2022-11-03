@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "5e1105d9-e485-462d-a5bf-1eb931976b13",
+    "name": "jean art dolger",
+    "gender": "Female",
+    "description": "loves collecting art for charity ",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

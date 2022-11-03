@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d1556c97-9075-49fc-8bde-1826bfc2dbe1",
+    "name": "sea rastafaria",
+    "gender": "female",
+    "description": "Ronke is the ghetto goddess that nobody wants to mess with. Stay clear!",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

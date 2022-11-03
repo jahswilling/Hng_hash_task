@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "e441439d-49a3-41eb-bf9d-3c7f98c268bf",
+    "name": "Okoro the bachelor",
+    "gender": "Male",
+    "description": "A local palm wine tapper with hopes and dreams",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

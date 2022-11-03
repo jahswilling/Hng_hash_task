@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d05af807-b3e9-4ad3-8df1-b7864d2daa33",
+    "name": "nyimbo the singer",
+    "gender": "female",
+    "description": "glasses and a pot for the night",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

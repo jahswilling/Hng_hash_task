@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "71a0aa22-d111-43b7-8484-43d87310bc42",
+    "name": "charlie the smoker",
+    "gender": "male",
+    "description": "charlie uses smoking as a coping mechanism",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

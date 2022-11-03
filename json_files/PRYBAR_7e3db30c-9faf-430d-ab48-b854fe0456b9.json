@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "7e3db30c-9faf-430d-ab48-b854fe0456b9",
+    "name": "ade party girl",
+    "gender": "female",
+    "description": "the life of every party",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

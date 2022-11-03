@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "05ec3aae-7da8-4125-93fb-6fc544e5bc61",
+    "name": "friday the bigsboy",
+    "gender": "Male",
+    "description": "friday always live up to his name. every friday is for the party.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

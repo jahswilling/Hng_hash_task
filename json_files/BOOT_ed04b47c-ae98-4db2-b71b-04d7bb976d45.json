@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ed04b47c-ae98-4db2-b71b-04d7bb976d45",
+    "name": "idoncare linda",
+    "gender": "female",
+    "description": "Linda is a beautiful but very annoying girl, she turns every thing into an argument.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

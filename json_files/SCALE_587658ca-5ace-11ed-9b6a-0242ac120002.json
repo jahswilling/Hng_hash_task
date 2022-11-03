@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "587658ca-5ace-11ed-9b6a-0242ac120002",
+    "name": "chiamaka the bully",
+    "gender": "Female",
+    "description": "Chiamaka hates people in her business and likes to scare the kids on the block",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

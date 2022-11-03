@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "45843017-b421-4413-8e35-7a6ef073f2b9",
+    "name": "Simisola the kenteprincess",
+    "gender": "Female",
+    "description": "Simisola rocks kente even in swim outfits",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

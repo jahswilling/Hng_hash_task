@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "9d945d79-dd2d-4755-b9c7-bff837be8557",
+    "name": "brian richkid",
+    "gender": "Male",
+    "description": "A trust fund baby that does not know how to manage money",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

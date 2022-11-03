@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "cad316c3-37f8-4b27-9f53-9d803bfcfee7",
+    "name": "adewale the amebo",
+    "gender": "male",
+    "description": "adewale the amebo",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "2aebd094-3be5-4773-a7a0-361f6332a7d4",
+    "name": "Akonadi",
+    "gender": "Female",
+    "description": "Akonadi is the goddess of justice and prophesies of the Ghana people.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

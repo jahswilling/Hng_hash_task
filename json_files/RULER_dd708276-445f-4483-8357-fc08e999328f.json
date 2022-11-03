@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "dd708276-445f-4483-8357-fc08e999328f",
+    "name": "abdullahi the honorable",
+    "gender": "male",
+    "description": "Popularly called \"buje budanu\" a godfather who lavishes money on young thugs",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "27eca2dc-d7df-474a-8f8f-1858152c711e",
+    "name": "damilare the handsome",
+    "gender": "male",
+    "description": "He's a fine boy. Everyone loves his face(and him).",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

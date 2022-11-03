@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1fb33783-4898-48cf-8a73-f81afc71e1a8",
+    "name": "rehema the olodo",
+    "gender": "male",
+    "description": "Failed primary 5 eight times and like playing football after school",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

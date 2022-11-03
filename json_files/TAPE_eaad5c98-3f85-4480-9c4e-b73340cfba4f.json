@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "eaad5c98-3f85-4480-9c4e-b73340cfba4f",
+    "name": "chimamanda enugu",
+    "gender": "Female",
+    "description": "a young lady born during the war",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

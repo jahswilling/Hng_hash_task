@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1e4d9bda-f6f9-4e7a-9381-bee4b074b56d",
+    "name": "rofiat the marketer",
+    "gender": "Female",
+    "description": "Rofiat, the distressed marketing intern.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

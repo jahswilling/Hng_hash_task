@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "239933c4-7177-4b5b-86e8-e6f952301344",
+    "name": "chifu the maasai",
+    "gender": "male",
+    "description": "clothing inspired by maasai shuka",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

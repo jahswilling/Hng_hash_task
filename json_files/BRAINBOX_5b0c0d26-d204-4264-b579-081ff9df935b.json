@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "5b0c0d26-d204-4264-b579-081ff9df935b",
+    "name": "yakubu village chief",
+    "gender": "Male",
+    "description": "Yakubu is the village chieftain",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

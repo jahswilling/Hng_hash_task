@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d5f23ad3-832a-4d3e-814e-e23f466d18a4",
+    "name": "sola the queen",
+    "gender": "Female",
+    "description": "sola is a princess. she's got the mind of a queen",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

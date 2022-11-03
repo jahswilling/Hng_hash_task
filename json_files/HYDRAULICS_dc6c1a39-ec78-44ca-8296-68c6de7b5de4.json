@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "dc6c1a39-ec78-44ca-8296-68c6de7b5de4",
+    "name": "Gbenga titled man",
+    "gender": "Male",
+    "description": "A yoruba chief who is also a car dealer",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

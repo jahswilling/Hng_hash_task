@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c428411c-5a06-4b74-bd17-e53b76f9fc6c",
+    "name": "Abaga the rapper",
+    "gender": "Male",
+    "description": "A flashy millionaire and a music rapper",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

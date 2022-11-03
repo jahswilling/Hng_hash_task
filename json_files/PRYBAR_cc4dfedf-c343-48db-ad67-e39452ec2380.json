@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "cc4dfedf-c343-48db-ad67-e39452ec2380",
+    "name": "adun preacher",
+    "gender": "female",
+    "description": "a woman who preaches in buses",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

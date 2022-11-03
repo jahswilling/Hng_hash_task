@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "31ac6b7a-e378-4dc3-999d-b9e8d8473f99",
+    "name": "Nneka wedding planner",
+    "gender": "Female",
+    "description": "Nneka plans the best weddings with great details.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "afdb0299-327c-46b2-9262-faf90f0fcd12",
+    "name": "Obinna the musician",
+    "gender": "Male",
+    "description": "Obinna might never be an a-list artist",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

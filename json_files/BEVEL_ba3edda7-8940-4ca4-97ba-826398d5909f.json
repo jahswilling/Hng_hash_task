@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ba3edda7-8940-4ca4-97ba-826398d5909f",
+    "name": "sesan the smartie",
+    "gender": "male",
+    "description": "Sesan always comes first in competitions.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

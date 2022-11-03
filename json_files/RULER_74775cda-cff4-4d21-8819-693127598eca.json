@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "74775cda-cff4-4d21-8819-693127598eca",
+    "name": "jane the slayqueen",
+    "gender": "female",
+    "description": "Jane is always found in the midst of men and loves partying",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

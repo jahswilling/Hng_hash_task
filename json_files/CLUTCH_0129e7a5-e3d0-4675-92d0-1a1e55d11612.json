@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "0129e7a5-e3d0-4675-92d0-1a1e55d11612",
+    "name": "aminu maikudi",
+    "gender": "male",
+    "description": "aminu is a wealthy man from a family with generational wealth. His exquisite taste shows it",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "9c34a73f-33ee-4577-aba8-0982c1656ba7",
+    "name": "Tano",
+    "gender": "Male",
+    "description": "Tano is the master of the Ghana river Tano.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

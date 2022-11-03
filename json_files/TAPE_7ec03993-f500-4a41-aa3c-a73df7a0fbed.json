@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "7ec03993-f500-4a41-aa3c-a73df7a0fbed",
+    "name": "leo sugarmummy",
+    "gender": "Female",
+    "description": "A middle age wild yankee returnee",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "35b11a31-5b92-49f4-8fb1-30f255d22054",
+    "name": "kemi the iron lady",
+    "gender": "female",
+    "description": "kemi the strongest woman known to the town of  igbede people",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

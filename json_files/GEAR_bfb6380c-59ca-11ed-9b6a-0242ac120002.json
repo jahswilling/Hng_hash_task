@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "bfb6380c-59ca-11ed-9b6a-0242ac120002",
+    "name": "Granpa Willy",
+    "gender": "male",
+    "description": "A grandfather that drinks beer and reads newspaper all day",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "fc8ea3ac-59d1-11ed-9b6a-0242ac120002",
+    "name": "toy soldier",
+    "gender": "male",
+    "description": "a man stronger than an army",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

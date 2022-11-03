@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "aa575f30-04ad-45f9-a798-199465117793",
+    "name": "ogogo the sugardaddy",
+    "gender": "male",
+    "description": "A rich oil magnate who loves to 'solve' young women's problems with his millions",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

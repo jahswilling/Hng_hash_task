@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "dacbbb38-087d-4248-8085-13b619da0ef9",
+    "name": "Erinle",
+    "gender": "Male",
+    "description": "Erinle is a powerful hunter of the Yoruba land.,",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

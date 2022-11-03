@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "784f0f6b-4273-4a31-88d7-2455b96c9011",
+    "name": "Anansi",
+    "gender": "Male",
+    "description": "Anansi is a trickster god of stories of the Ghana people.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

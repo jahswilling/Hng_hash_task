@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "dbdc1351-aa07-46e2-935f-2db071b1b23d",
+    "name": "Shakira the gangster",
+    "gender": "Female",
+    "description": "Shakira is the most feared criminal.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

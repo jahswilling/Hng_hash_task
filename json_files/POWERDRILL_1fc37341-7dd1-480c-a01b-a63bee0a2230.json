@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1fc37341-7dd1-480c-a01b-a63bee0a2230",
+    "name": "Sharon walking dead",
+    "gender": "Female",
+    "description": "When tired Sharon walks like the dead",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

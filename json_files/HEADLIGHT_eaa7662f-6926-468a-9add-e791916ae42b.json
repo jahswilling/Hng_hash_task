@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "eaa7662f-6926-468a-9add-e791916ae42b",
+    "name": "bimpe the runzgirl",
+    "gender": "Female",
+    "description": "be careful with bimpe, she can run you strong thing",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

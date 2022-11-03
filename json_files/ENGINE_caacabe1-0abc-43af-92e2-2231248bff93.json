@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "caacabe1-0abc-43af-92e2-2231248bff93",
+    "name": "jessie lord rings",
+    "gender": "Female",
+    "description": "she seeks her 'precious'",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

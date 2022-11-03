@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ede86fbc-5abd-11ed-9b6a-0242ac120002",
+    "name": "kasali danfo",
+    "gender": "male",
+    "description": "A danfo driver popular for his positive outlook of life",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

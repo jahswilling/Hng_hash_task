@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "e7c32b06-7022-49b4-bbe5-81e8c1d58583",
+    "name": "chichi the dancer",
+    "gender": "female",
+    "description": "Chichi loves dancing and party",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

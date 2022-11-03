@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d875aa6c-3e4a-4450-b09c-e9f1cdcc3947",
+    "name": "fiesty sandra",
+    "gender": "female",
+    "description": "Sandra is a social animal, correct owambe ambassador.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

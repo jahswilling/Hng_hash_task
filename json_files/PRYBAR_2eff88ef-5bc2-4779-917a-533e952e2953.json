@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "2eff88ef-5bc2-4779-917a-533e952e2953",
+    "name": "john casco",
+    "gender": "female",
+    "description": "silent killer",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

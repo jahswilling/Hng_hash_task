@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "6c9d6eae-2ea2-468c-a2c8-928aaafc084b",
+    "name": "uche peace loving man",
+    "gender": "Male",
+    "description": "A man of peace and discipline ",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

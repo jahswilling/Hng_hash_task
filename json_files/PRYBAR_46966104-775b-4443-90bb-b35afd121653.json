@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "46966104-775b-4443-90bb-b35afd121653",
+    "name": "bolanle pepper dem",
+    "gender": "male",
+    "description": "a money spender",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "f3af0bbd-0724-4696-89ff-ed67f63e6b4f",
+    "name": "Nyame",
+    "gender": "Male",
+    "description": "Nyame is the omnipotent god of the Ghana region.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

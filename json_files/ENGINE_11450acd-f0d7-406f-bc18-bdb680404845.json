@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "11450acd-f0d7-406f-bc18-bdb680404845",
+    "name": "rachel mood silent",
+    "gender": "Female",
+    "description": "introvert  to the core, a mysterious lady",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

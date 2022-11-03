@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "a0282797-44ef-4bfb-a701-e4ed5e727d63",
+    "name": "doubting vivian",
+    "gender": "female",
+    "description": "Vivian just like the thomas in the bible, she doubts all.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

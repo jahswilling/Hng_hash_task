@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "58ac5cf6-b644-41c6-af79-ec9aa5f6bdd1",
+    "name": "segun baller",
+    "gender": "male",
+    "description": "a man who loves to party hard",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

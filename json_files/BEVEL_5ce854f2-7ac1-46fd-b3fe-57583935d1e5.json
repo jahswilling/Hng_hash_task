@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "5ce854f2-7ac1-46fd-b3fe-57583935d1e5",
+    "name": "chibuike the kudibag",
+    "gender": "male",
+    "description": "Chibuike is too rich. Everyone wonders how he got it.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

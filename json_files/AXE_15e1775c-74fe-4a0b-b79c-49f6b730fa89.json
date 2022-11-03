@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "15e1775c-74fe-4a0b-b79c-49f6b730fa89",
+    "name": "Sango",
+    "gender": "Male",
+    "description": "Sango is the yoruba diety of thunder.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "59d19b13-09e2-412e-a669-df020e03ae10",
+    "name": "bukola nosend",
+    "gender": "female",
+    "description": "Bukola is friends with many but always get moody.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

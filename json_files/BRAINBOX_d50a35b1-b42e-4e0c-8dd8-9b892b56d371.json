@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d50a35b1-b42e-4e0c-8dd8-9b892b56d371",
+    "name": "olamide the street boy",
+    "gender": "Male",
+    "description": "Friendly street gang",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

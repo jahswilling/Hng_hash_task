@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "59524227-dc52-407c-8cca-e9e8c5fb3018",
+    "name": "nina paper chaser",
+    "gender": "female",
+    "description": "Nina na Igbo girl wey like money. Finish.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

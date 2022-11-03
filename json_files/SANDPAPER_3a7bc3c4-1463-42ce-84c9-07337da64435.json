@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "3a7bc3c4-1463-42ce-84c9-07337da64435",
+    "name": "mbogi the fighter",
+    "gender": "male",
+    "description": "masked up mbogi after capture",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

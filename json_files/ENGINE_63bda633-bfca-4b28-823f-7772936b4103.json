@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "63bda633-bfca-4b28-823f-7772936b4103",
+    "name": "nana reflector agent",
+    "gender": "Female",
+    "description": "she loves her chrome fashion stye",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

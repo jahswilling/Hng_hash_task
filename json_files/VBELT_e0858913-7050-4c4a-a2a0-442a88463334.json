@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "e0858913-7050-4c4a-a2a0-442a88463334",
+    "name": "nana the tech lady",
+    "gender": "Female",
+    "description": "Nana, the tech madam that doubles as Kumasi Adele in her bathroom every morning.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

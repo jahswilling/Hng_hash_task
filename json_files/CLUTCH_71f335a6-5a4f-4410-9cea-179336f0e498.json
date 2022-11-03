@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "71f335a6-5a4f-4410-9cea-179336f0e498",
+    "name": "linda the navigator",
+    "gender": "female",
+    "description": "linda knows how to make a way for herself and people around her",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

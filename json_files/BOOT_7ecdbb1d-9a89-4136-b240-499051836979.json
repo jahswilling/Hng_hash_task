@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "7ecdbb1d-9a89-4136-b240-499051836979",
+    "name": "madame ngozi",
+    "gender": "female",
+    "description": "Ngozi make heads turn with her beautiful collection of materials from all over africa.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

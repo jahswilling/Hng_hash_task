@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "58764862-5ace-11ed-9b6a-0242ac120002",
+    "name": "uduak the dark horse",
+    "gender": "Female",
+    "description": "Uduak looks innocent and has the whole apartment bugged",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

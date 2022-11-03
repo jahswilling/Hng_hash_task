@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "4d94d4f7-9b69-4e43-9db1-1fe83df92857",
+    "name": "wole the pimp",
+    "gender": "male",
+    "description": "wole knows all the babes in town and is always pimping them out",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

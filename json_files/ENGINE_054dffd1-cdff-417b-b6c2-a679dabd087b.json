@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "054dffd1-cdff-417b-b6c2-a679dabd087b",
+    "name": "flora burger eater",
+    "gender": "Female",
+    "description": "she loves eating burgers",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

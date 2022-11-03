@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "17ea9c3b-c90f-4023-84d6-d563c098b030",
+    "name": "Mary nail technician",
+    "gender": "Female",
+    "description": "Mary makes magic with her press-on nails",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

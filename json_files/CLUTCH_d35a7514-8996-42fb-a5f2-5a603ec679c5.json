@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d35a7514-8996-42fb-a5f2-5a603ec679c5",
+    "name": "saro the baller",
+    "gender": "male",
+    "description": "saro is a baller and is always ready to turnup",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

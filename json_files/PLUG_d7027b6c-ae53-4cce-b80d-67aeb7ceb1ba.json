@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d7027b6c-ae53-4cce-b80d-67aeb7ceb1ba",
+    "name": "kiokoli the slowrunner",
+    "gender": "male",
+    "description": "Always running in every race but never making it to the first 5",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

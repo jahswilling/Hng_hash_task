@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "04c4b28a-aca0-44b1-a064-ed0d9d2a31ca",
+    "name": "olu the oba",
+    "gender": "Male",
+    "description": "The oba of Ofuk kingdom ",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

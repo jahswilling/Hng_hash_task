@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1712532a-20d9-4ccb-8582-bffd76c9fb67",
+    "name": "Queen the extrovert",
+    "gender": "Female",
+    "description": "A woman who enjoys being high all the time",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

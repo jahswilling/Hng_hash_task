@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c7726e84-3c5c-4e66-8677-cbfb5c9ee850",
+    "name": "amaka the hypepriestess",
+    "gender": "female",
+    "description": "Amaka is a very hyper that she hypes in the clubs",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

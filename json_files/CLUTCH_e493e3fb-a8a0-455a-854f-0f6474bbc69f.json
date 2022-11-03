@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "e493e3fb-a8a0-455a-854f-0f6474bbc69f",
+    "name": "femi the badguy",
+    "gender": "male",
+    "description": "femi is the biggest guy in lagos and he has served plenty babes breakfast",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

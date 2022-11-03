@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "2da4bef4-38cc-4414-99ad-7361fac04b2b",
+    "name": "barasa the optimist",
+    "gender": "male",
+    "description": "looks up to the sky and makes a wish",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

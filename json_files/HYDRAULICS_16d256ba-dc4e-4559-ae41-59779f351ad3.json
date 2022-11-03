@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "16d256ba-dc4e-4559-ae41-59779f351ad3",
+    "name": "Yomi the fashionista",
+    "gender": "Male",
+    "description": "Winner of the Lagos GT Bank fashion week.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

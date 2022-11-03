@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "87bcc41f-eb3e-4ba2-9645-223c949a9b50",
+    "name": "smirky becky",
+    "gender": "female",
+    "description": "Becky ends every statement she makes with a smirk.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

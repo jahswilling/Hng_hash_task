@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "4bd7a15b-cc66-4e2d-8fdb-d550f2dd645c",
+    "name": "wangari the waitress",
+    "gender": "Female",
+    "description": "Wangari, the aspiring musician that doubles as a waitress.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

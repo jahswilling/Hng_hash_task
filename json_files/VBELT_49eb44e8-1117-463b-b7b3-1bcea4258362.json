@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "49eb44e8-1117-463b-b7b3-1bcea4258362",
+    "name": "modinat the troublesome",
+    "gender": "Female",
+    "description": "Modinat, The queen of Gbas Gbos.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

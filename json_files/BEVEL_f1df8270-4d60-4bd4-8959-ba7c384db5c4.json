@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "f1df8270-4d60-4bd4-8959-ba7c384db5c4",
+    "name": "ebiowie the planter",
+    "gender": "male",
+    "description": "Ebiowei has a reputation for nurturing plants.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

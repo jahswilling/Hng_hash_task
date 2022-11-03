@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "0871cb8c-8d56-445d-92c7-01793f327707",
+    "name": "maathai the nobel winner",
+    "gender": "female",
+    "description": "mathaai the warrior",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "32ec57f7-8272-4671-ad2d-db3dff99fe9f",
+    "name": "lola medusa",
+    "gender": "female",
+    "description": "Lola knows how to seduce every guys she is into.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

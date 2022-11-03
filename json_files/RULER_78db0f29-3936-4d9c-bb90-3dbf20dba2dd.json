@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "78db0f29-3936-4d9c-bb90-3dbf20dba2dd",
+    "name": "mansur the partyrider",
+    "gender": "male",
+    "description": "Mansur is the life of a party and never caught dulling.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

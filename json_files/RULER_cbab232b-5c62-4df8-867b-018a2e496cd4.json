@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "cbab232b-5c62-4df8-867b-018a2e496cd4",
+    "name": "dolapo the afrocentric",
+    "gender": "female",
+    "description": "Dolapo loves african prints and loves to showcase culture",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

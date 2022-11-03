@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "b48cbd98-96c2-4ec4-9d17-2c798be5b90f",
+    "name": "Mark the philanthropist",
+    "gender": "Male",
+    "description": "A London based philantropist.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

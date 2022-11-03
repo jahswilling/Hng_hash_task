@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "6dc7e452-0626-4f4c-a28c-f5db3532e305",
+    "name": "enepua the clout queen",
+    "gender": "female",
+    "description": "The lady that travels all day and enjoys snapping food at restaurants",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

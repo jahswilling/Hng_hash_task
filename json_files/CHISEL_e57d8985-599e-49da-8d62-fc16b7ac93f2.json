@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "e57d8985-599e-49da-8d62-fc16b7ac93f2",
+    "name": "hammed the farmer",
+    "gender": "male",
+    "description": "Hammed owns a farm with his family",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

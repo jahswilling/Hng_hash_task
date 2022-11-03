@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "b10f7e42-4778-49db-820b-dabbad75504a",
+    "name": "osas the ceo",
+    "gender": "Female",
+    "description": "Meet Osas, a Gen-Z CEO with the British accent.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

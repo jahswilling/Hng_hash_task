@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "195e89c8-0b6f-43ad-9a2c-d20f03439e96",
+    "name": "emeka the chief",
+    "gender": "male",
+    "description": "Crowd are always at Emeka's house and people respect him",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

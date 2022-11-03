@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "2912ab8b-5875-4277-a5c2-a0209aee90ae",
+    "name": "odunsi the egbonadugbo",
+    "gender": "male",
+    "description": "Odunsi loves to advise and people in the community rely on him",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

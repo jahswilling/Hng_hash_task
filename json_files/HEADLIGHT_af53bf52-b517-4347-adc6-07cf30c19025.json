@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "af53bf52-b517-4347-adc6-07cf30c19025",
+    "name": "kweku the planter",
+    "gender": "Male",
+    "description": "kweku says he did it. kweku dey plant Igbo until he was bursted",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ec4a855a-5ceb-4f1b-bbd7-a995aa45e875",
+    "name": "Busola the shakara",
+    "gender": "Female",
+    "description": "She is a fashion icon that loves luxurious items.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

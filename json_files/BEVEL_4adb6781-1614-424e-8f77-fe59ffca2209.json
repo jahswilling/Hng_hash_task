@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "4adb6781-1614-424e-8f77-fe59ffca2209",
+    "name": "yakubu the zombie",
+    "gender": "male",
+    "description": "Yakubu earned his zombie title because na only dust full him head.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

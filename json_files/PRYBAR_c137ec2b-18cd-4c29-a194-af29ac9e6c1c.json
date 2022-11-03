@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c137ec2b-18cd-4c29-a194-af29ac9e6c1c",
+    "name": "ayo web3 bro",
+    "gender": "female",
+    "description": "no actual knowledge of basic computer principles",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

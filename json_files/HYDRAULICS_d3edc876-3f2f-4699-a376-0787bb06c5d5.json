@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d3edc876-3f2f-4699-a376-0787bb06c5d5",
+    "name": "Ibu the importer",
+    "gender": "Male",
+    "description": "A rich igbo trader who imports goods in onitsha market",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

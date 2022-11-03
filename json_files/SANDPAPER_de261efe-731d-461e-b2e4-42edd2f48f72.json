@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "de261efe-731d-461e-b2e4-42edd2f48f72",
+    "name": "olebon the oloibon",
+    "gender": "male",
+    "description": "olebon in customized buba sokoto",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

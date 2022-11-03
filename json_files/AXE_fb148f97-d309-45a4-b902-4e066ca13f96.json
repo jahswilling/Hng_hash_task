@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "fb148f97-d309-45a4-b902-4e066ca13f96",
+    "name": "Onyame",
+    "gender": "Female",
+    "description": "Onyame is the goddess of the moon of the ghana region",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

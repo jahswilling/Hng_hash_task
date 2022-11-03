@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "482ab247-73a4-4ff8-9172-732f3d0729b8",
+    "name": "Kalu the ichie",
+    "gender": "Male",
+    "description": "A man of wealth with afluence spreading all over the east",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

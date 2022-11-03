@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c6955d16-c343-46bc-9bed-c069ea8cc65a",
+    "name": "zarifa the righteous",
+    "gender": "Female",
+    "description": "Meet Zarifa, a proper baddie for Christ.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "4f30b751-96e7-40fe-97fd-e3d44973ff2f",
+    "name": "aminu the carpenter",
+    "gender": "male",
+    "description": "Aminu's hands are blessed, he makes the best furniture in the whole of Kano.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

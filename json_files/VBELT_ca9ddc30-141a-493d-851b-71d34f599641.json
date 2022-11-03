@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ca9ddc30-141a-493d-851b-71d34f599641",
+    "name": "mawusi the patient",
+    "gender": "Female",
+    "description": "Meet Mawusi, the sweet sister waiting for her Canadian bobo.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

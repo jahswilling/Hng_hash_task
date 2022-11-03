@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d24aefff-c9fc-4ea9-a7cf-1b741076c822",
+    "name": "kiki cala flier",
+    "gender": "Female",
+    "description": "she flies first class and gets the best deals",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "22aaebe4-4659-44de-ab3d-c4dae11fe9f5",
+    "name": "Oya",
+    "gender": "Female",
+    "description": "Oya is the goddess of violent storms and winds of the Yoruba people.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

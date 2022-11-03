@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "0706c338-42eb-4d26-84ea-c24b39628200",
+    "name": "kenyanese the priest",
+    "gender": "male",
+    "description": "masked up man with with white cloth",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

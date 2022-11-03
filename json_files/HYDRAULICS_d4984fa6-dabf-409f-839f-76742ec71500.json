@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d4984fa6-dabf-409f-839f-76742ec71500",
+    "name": "Larry the westerner",
+    "gender": "Male",
+    "description": "A Yoruba Man who smokes his pipe in peace",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

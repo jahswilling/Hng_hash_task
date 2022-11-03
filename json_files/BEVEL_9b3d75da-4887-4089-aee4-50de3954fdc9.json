@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "9b3d75da-4887-4089-aee4-50de3954fdc9",
+    "name": "emeka the businessman",
+    "gender": "male",
+    "description": "Emeka only cares about containers. No time to waste.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

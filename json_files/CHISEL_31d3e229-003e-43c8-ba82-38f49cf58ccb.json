@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "31d3e229-003e-43c8-ba82-38f49cf58ccb",
+    "name": "farida the tivlady",
+    "gender": "female",
+    "description": "Farada is a traditional TIv woman",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

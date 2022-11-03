@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "92b548b7-998b-46b6-8198-80d407209483",
+    "name": "bimpe the fashionista",
+    "gender": "female",
+    "description": "bimpe loves wearing trendy clothes and looking gorgeous",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "5cfa76df-8376-4505-af12-78af24f108d6",
+    "name": "nonso the igbogirl",
+    "gender": "female",
+    "description": "Nonso is an Igbo girl that loves money",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

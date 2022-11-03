@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "40743b16-ae12-4b4a-989c-e5fbf1e2e0ca",
+    "name": "afro star",
+    "gender": "female",
+    "description": "Bimbo is an afro star with great affluence.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

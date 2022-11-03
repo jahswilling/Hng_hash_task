@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "9b59bdb4-0c6c-4107-9d72-6d38d308edb4",
+    "name": "njoki binary coder",
+    "gender": "Female",
+    "description": "she codes with the best and tops the set",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

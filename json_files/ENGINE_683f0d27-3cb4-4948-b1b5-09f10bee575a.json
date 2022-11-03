@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "683f0d27-3cb4-4948-b1b5-09f10bee575a",
+    "name": "wanjiru hippie glitter",
+    "gender": "Female",
+    "description": "a hippie that loves her glitters",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

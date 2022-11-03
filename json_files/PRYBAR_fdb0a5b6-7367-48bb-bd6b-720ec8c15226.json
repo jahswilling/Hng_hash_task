@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "fdb0a5b6-7367-48bb-bd6b-720ec8c15226",
+    "name": "ozo fineboi",
+    "gender": "female",
+    "description": "she's currently in her babyboy era",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

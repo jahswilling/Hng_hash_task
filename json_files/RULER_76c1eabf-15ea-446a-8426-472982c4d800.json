@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "76c1eabf-15ea-446a-8426-472982c4d800",
+    "name": "ojukwu the badguy",
+    "gender": "male",
+    "description": "Ojukwu likes to oppress and cause trouble",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

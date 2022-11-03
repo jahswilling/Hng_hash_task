@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "34b1136d-00b1-4f29-8a03-5b02291d47d5",
+    "name": "nkechi the actress",
+    "gender": "female",
+    "description": "Nkechi is an internation actress that acts in hollywood",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

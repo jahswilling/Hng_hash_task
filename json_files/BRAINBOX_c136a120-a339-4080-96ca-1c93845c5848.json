@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c136a120-a339-4080-96ca-1c93845c5848",
+    "name": "obasanjo funny guy",
+    "gender": "Male",
+    "description": "Obasanjo is so hilarious ",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

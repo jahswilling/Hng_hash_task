@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "b5328f13-b918-4e76-8d4c-8b4aec5eb5fe",
+    "name": "genz monique",
+    "gender": "Female",
+    "description": "A sassy lady with her own vibe",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

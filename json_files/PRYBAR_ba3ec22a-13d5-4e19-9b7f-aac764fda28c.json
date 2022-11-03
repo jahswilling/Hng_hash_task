@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ba3ec22a-13d5-4e19-9b7f-aac764fda28c",
+    "name": "femi tech bro",
+    "gender": "female",
+    "description": "broke tech bro actually, no money",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

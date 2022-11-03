@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "94c607b3-791e-40df-bd93-50926f094143",
+    "name": "Ogun",
+    "gender": "Male",
+    "description": "Ogun is the Yoruba God of iron and metal work.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

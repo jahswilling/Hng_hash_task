@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "0f1af056-2548-4407-bed4-abc11deae05d",
+    "name": "obinna the palmwine tapper",
+    "gender": "male",
+    "description": "obinna taps palmwine for a living",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "bfb5e8d5-d7a7-4aa8-85e8-d7d9afd4adb3",
+    "name": "omondi the vegeterian",
+    "gender": "male",
+    "description": "omondi wears a green coat",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

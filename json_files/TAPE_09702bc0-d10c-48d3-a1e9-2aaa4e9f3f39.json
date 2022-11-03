@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "09702bc0-d10c-48d3-a1e9-2aaa4e9f3f39",
+    "name": "nandi zulu",
+    "gender": "Female",
+    "description": "A fierce African Queen",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

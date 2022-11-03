@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "097014d5-0ef3-46f5-9a9b-5c01f70114b3",
+    "name": "Kiekie the asoebibella",
+    "gender": "Female",
+    "description": "Kiekie is classfied as the life of the party",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

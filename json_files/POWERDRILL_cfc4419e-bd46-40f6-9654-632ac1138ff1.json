@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "cfc4419e-bd46-40f6-9654-632ac1138ff1",
+    "name": "Olivia great teacher",
+    "gender": "Female",
+    "description": "Students enjoys Olivia's classes",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

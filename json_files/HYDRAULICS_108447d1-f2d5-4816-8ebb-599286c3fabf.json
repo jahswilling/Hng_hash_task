@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "108447d1-f2d5-4816-8ebb-599286c3fabf",
+    "name": "Tamuno the prince",
+    "gender": "Male",
+    "description": "An Ijaw prince who is also the heir to the throne",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

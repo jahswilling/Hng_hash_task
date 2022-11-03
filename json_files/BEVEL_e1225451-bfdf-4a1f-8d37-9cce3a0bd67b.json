@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "e1225451-bfdf-4a1f-8d37-9cce3a0bd67b",
+    "name": "henry the sportsman",
+    "gender": "male",
+    "description": "He's played every sport known to man. Even cricket.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

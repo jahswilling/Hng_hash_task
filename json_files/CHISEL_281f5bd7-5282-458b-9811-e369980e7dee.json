@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "281f5bd7-5282-458b-9811-e369980e7dee",
+    "name": "hannah the singer",
+    "gender": "female",
+    "description": "Hannah loves singing and belongs to choir",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

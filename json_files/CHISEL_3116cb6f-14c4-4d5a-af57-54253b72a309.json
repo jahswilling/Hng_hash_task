@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "3116cb6f-14c4-4d5a-af57-54253b72a309",
+    "name": "kemi foodie",
+    "gender": "female",
+    "description": "Kemi loves food but cannot cook",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

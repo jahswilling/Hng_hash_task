@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "78810fa6-a7ef-4d83-bf57-caf49db4ee69",
+    "name": "emeka the clown",
+    "gender": "male",
+    "description": "emeka the funny man, always making silly jokes",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

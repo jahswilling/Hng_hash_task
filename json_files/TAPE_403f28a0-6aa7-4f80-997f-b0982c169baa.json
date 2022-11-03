@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "403f28a0-6aa7-4f80-997f-b0982c169baa",
+    "name": "agba tech",
+    "gender": "Male",
+    "description": "A tech bro that loves to party but has bad communication skill",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

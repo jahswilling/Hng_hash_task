@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d9477612-ad63-408e-8d12-24679c647b32",
+    "name": "nnena pretty girl",
+    "gender": "female",
+    "description": "Nnena is beautiful girl that loves to talk about her beauty",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

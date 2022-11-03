@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ede86e22-5abd-11ed-9b6a-0242ac120002",
+    "name": "akpos agbero",
+    "gender": "male",
+    "description": "A Warri boy always in the mood for violence",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

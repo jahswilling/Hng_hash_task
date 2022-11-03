@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "e270e278-a9b5-408d-b527-d518239a997b",
+    "name": "fayo the yorubademon",
+    "gender": "male",
+    "description": "Fayo is a youruba demon that breaks hearts",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "e1a43f65-aad2-4385-ac5e-bc159c6e0f2a",
+    "name": "dada ganster",
+    "gender": "female",
+    "description": "Dada respects no one, always finds pleasure terrorising others.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

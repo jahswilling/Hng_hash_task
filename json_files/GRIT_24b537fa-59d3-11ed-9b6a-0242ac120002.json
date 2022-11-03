@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "24b537fa-59d3-11ed-9b6a-0242ac120002",
+    "name": "phiri of zambia",
+    "gender": "female",
+    "description": "an african woman with strength and beauty",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "4b64cf48-94fa-4aed-8cf2-452974b48ee3",
+    "name": "obi container",
+    "gender": "female",
+    "description": "a rich woman from the east",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

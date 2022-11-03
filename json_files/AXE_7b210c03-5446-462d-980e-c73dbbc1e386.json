@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "7b210c03-5446-462d-980e-c73dbbc1e386",
+    "name": "Ibeji",
+    "gender": "Female",
+    "description": "Ibeji is the goddess of balance and twin of the Yoruba people.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

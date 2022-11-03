@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "0e216fd1-d96a-4e3c-a59b-c807f772c5b3",
+    "name": "salamatou the exchange student",
+    "gender": "Female",
+    "description": "Salamatou, An Ivorian exchange student who's in love with Amala.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

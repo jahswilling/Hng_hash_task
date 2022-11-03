@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "750a89dc-44ff-43bf-8211-b7776f1b5e52",
+    "name": "tish the angry one",
+    "gender": "female",
+    "description": "angry tish with specs on",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

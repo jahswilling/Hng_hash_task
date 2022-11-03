@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "88106b92-da30-46ad-a3cc-d528683b9e33",
+    "name": "deladem the commandoo",
+    "gender": "Male",
+    "description": "The nerd who has watched all war movies but cannot fight a kid",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

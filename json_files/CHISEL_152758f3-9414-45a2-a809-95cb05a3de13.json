@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "152758f3-9414-45a2-a809-95cb05a3de13",
+    "name": "nnamdi the barber",
+    "gender": "male",
+    "description": "Nnamdi is a baber that does celebrity haircuts",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

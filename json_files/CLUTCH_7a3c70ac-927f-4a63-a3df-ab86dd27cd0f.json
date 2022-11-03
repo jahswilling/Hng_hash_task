@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "7a3c70ac-927f-4a63-a3df-ab86dd27cd0f",
+    "name": "mercy the sassy lady",
+    "gender": "female",
+    "description": "mercy only care about spending her father's money and treats people like trash",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

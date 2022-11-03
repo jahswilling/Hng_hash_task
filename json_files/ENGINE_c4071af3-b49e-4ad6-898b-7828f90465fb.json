@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c4071af3-b49e-4ad6-898b-7828f90465fb",
+    "name": "aisha crows damsel",
+    "gender": "Female",
+    "description": "she is always a damsel in distress",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

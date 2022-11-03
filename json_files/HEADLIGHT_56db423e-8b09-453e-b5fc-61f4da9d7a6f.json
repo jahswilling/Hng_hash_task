@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "56db423e-8b09-453e-b5fc-61f4da9d7a6f",
+    "name": "tunde the bigman",
+    "gender": "Male",
+    "description": "tunde is the big man on the street. flamboyant life style is his identity",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

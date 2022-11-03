@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "7ebde325-8efc-4997-811a-b5686269929e",
+    "name": "azikiwe popular trader",
+    "gender": "Male",
+    "description": "Azikiwe is a popular trader",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

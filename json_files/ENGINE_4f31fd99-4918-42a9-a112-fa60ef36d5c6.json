@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "4f31fd99-4918-42a9-a112-fa60ef36d5c6",
+    "name": "barbra vampire bc",
+    "gender": "Female",
+    "description": "she loves drinking the blood of her victims",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

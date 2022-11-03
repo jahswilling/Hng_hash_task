@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "6a4f5b7c-914d-42c5-8e5f-d1c34ca48886",
+    "name": "pretty betty",
+    "gender": "female",
+    "description": "Betty is always proud of her beauty.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

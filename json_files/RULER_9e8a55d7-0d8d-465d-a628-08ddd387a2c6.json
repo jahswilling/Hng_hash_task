@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "9e8a55d7-0d8d-465d-a628-08ddd387a2c6",
+    "name": "chinedu the farmer",
+    "gender": "male",
+    "description": "An hardworking farmer who has 6 boys who help out on the farm",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

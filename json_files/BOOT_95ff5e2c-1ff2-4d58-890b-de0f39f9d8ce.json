@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "95ff5e2c-1ff2-4d58-890b-de0f39f9d8ce",
+    "name": "bambi tekno",
+    "gender": "female",
+    "description": "Bambi is the dancer of the team.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

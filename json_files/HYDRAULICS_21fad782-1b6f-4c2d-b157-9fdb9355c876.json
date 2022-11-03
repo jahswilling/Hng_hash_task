@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "21fad782-1b6f-4c2d-b157-9fdb9355c876",
+    "name": "Elizabeth the richkid",
+    "gender": "Male",
+    "description": "A university undergraduate from a rich background",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

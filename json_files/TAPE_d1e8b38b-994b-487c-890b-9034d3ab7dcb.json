@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d1e8b38b-994b-487c-890b-9034d3ab7dcb",
+    "name": "akwaaba ghana",
+    "gender": "Female",
+    "description": "A depressed gothic introvert",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

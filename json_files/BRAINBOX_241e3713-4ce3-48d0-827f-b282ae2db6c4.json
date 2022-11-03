@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "241e3713-4ce3-48d0-827f-b282ae2db6c4",
+    "name": "johnathan good leader",
+    "gender": "Male",
+    "description": "A very progressive young man with positivity ",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

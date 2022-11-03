@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "5d12847b-6d71-4691-8337-2e6ef3e283b2",
+    "name": "cynthia cute eyes",
+    "gender": "Female",
+    "description": "Cynthia with a priceless cute eyes",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

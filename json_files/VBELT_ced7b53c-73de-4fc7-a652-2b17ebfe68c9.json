@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ced7b53c-73de-4fc7-a652-2b17ebfe68c9",
+    "name": "addae the unretired",
+    "gender": "Female",
+    "description": "Mummy Addae, the hot grandma that has refused to retire.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

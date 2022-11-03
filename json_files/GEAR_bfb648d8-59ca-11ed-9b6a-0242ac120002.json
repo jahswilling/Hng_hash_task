@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "bfb648d8-59ca-11ed-9b6a-0242ac120002",
+    "name": "Yusuf the smoker",
+    "gender": "male",
+    "description": "A chronic smoker with damaged lungs",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

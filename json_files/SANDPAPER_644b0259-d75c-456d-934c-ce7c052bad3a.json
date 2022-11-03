@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "644b0259-d75c-456d-934c-ce7c052bad3a",
+    "name": "milele the african",
+    "gender": "male",
+    "description": "milele with a nice african print in orange",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

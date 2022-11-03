@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "0642a25a-966d-446f-b021-a6d18e7fa0c5",
+    "name": "esther sassy",
+    "gender": "female",
+    "description": "her motto is everybody must collect",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

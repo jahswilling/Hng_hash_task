@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "dfbb4163-df24-4d54-b74c-6218a68df8bd",
+    "name": "mayowa the smallie",
+    "gender": "male",
+    "description": "Mayowa is so small but everyone loves him even still.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

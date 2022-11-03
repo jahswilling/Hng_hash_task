@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "8bebdb3a-f0a8-47ba-892f-39aa275fbd0d",
+    "name": "ajasco comedian",
+    "gender": "male",
+    "description": "he thinks he's funny but he's not",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

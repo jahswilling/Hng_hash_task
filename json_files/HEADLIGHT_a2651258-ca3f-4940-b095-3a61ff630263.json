@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "a2651258-ca3f-4940-b095-3a61ff630263",
+    "name": "father of tolu",
+    "gender": "Male",
+    "description": "baba tolu is a proud father. he will sell his soul just to see tolu excel in life",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

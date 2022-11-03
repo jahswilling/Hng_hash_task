@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "36539b84-ada0-43cb-92d4-30596e07a39a",
+    "name": "charlene the shy lady",
+    "gender": "Female",
+    "description": "Meet Charlene, the shy sweetheart next door.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

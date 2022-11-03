@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "2b345988-b4b0-453b-ad39-efe1321bc8f1",
+    "name": "jonny the bravo",
+    "gender": "Male",
+    "description": "jonny is our local police. he breaks boys free",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

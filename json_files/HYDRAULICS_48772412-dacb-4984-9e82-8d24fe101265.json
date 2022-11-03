@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "48772412-dacb-4984-9e82-8d24fe101265",
+    "name": "Bella the artist",
+    "gender": "Female",
+    "description": "A lady that host a fashion week show",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

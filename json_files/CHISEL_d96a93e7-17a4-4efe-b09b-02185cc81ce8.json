@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d96a93e7-17a4-4efe-b09b-02185cc81ce8",
+    "name": "quadri the teacher",
+    "gender": "male",
+    "description": "Quadri is a devoted teacher that teaches mathematics",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

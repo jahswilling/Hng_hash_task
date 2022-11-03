@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1a07ca73-d39b-43e9-a0f1-ef9f5e57d3a9",
+    "name": "shade olori",
+    "gender": "female",
+    "description": "Shade loves soft life and makeup",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

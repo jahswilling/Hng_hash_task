@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ac721b71-cbc5-425c-851f-ee826973f0b9",
+    "name": "gabby the evangelist",
+    "gender": "Male",
+    "description": "evangelist Gabby, blending gospel with comedy. he's going places",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

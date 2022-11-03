@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "44906ea0-901b-4b3d-802f-f73acc8758f6",
+    "name": "solo the messenger",
+    "gender": "Male",
+    "description": "solo is a multitasker. you need anything done in your home, solo is your guy",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

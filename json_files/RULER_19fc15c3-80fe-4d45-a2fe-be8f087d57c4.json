@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "19fc15c3-80fe-4d45-a2fe-be8f087d57c4",
+    "name": "favour the fashionista",
+    "gender": "female",
+    "description": "Combining dresses is not a problem for Favour",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

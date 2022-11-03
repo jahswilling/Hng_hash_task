@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "20330f5c-40c2-4f6a-b9d8-d1d04fb97daf",
+    "name": "kamau the sleeper",
+    "gender": "male",
+    "description": "closed eyes meditating",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

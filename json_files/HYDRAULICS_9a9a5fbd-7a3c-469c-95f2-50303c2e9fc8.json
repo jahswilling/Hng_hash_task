@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "9a9a5fbd-7a3c-469c-95f2-50303c2e9fc8",
+    "name": "Massa the ghanian",
+    "gender": "Male",
+    "description": "A rich Ghanian trader.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

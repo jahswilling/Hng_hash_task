@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "dd30a327-8a74-40a5-8207-19a790508ccc",
+    "name": "unfriendly gina",
+    "gender": "female",
+    "description": "Gina is an angry one, she has no friends but she has a lot of money.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

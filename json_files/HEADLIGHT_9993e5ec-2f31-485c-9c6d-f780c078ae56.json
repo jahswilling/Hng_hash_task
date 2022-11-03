@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "9993e5ec-2f31-485c-9c6d-f780c078ae56",
+    "name": "2pac the remix",
+    "gender": "Male",
+    "description": "2pac is alive in him. his style is exactly the same. upcoming artist",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c4ee8a54-0874-4a7f-8344-dea8ba41f5dc",
+    "name": "vamp karishika",
+    "gender": "Female",
+    "description": "Queen of the darkness",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

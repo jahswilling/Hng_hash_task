@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "3344a73c-f15e-4afd-a1b2-3199e27eb08f",
+    "name": "kim rich aunty",
+    "gender": "Female",
+    "description": "she loves spoiling her nieces and nephew",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

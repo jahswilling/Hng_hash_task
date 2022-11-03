@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "df295be1-1509-406e-a263-28a5dee0abca",
+    "name": "kola of lagos",
+    "gender": "male",
+    "description": "Kola is the life of the party everywhere he is",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

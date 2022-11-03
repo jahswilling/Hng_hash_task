@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "427ea0f5-30a3-4d70-a5bd-a6106409b83c",
+    "name": "bobo crypto lovely",
+    "gender": "Female",
+    "description": "she is a crpto guru you can trust all through",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

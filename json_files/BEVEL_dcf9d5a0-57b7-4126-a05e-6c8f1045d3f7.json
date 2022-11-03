@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "dcf9d5a0-57b7-4126-a05e-6c8f1045d3f7",
+    "name": "muyiwa the stylish",
+    "gender": "male",
+    "description": "Muyiwa has a motto which is never to be caught unfresh.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

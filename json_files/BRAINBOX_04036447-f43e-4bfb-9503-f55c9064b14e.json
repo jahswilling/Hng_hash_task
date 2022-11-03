@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "04036447-f43e-4bfb-9503-f55c9064b14e",
+    "name": "ella serious minded",
+    "gender": "Female",
+    "description": "Ella a dedicated young lady ",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

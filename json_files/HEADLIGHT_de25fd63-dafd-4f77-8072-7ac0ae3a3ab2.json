@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "de25fd63-dafd-4f77-8072-7ac0ae3a3ab2",
+    "name": "emeka the chief",
+    "gender": "Male",
+    "description": "chief emeka is the pillar of the community. just and fair to all. the real mazi",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

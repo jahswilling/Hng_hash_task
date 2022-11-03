@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c32f1757-da9c-49e8-bd79-510a42b6971a",
+    "name": "kola the baldguy",
+    "gender": "male",
+    "description": "kola girls fall for his bald head and always barb it",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

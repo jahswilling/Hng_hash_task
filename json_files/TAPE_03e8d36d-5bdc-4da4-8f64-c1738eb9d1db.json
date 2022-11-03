@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "03e8d36d-5bdc-4da4-8f64-c1738eb9d1db",
+    "name": "femi boltz",
+    "gender": "Male",
+    "description": "A driver hustling his way through life",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

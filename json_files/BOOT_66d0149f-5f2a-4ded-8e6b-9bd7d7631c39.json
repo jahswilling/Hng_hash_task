@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "66d0149f-5f2a-4ded-8e6b-9bd7d7631c39",
+    "name": "ankara scarlett",
+    "gender": "female",
+    "description": "Scarlett is a tailor at yaba market and she loves what she does.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "169b58f8-b84a-4ab3-a4b6-d1c5b36aa1d3",
+    "name": "karim rapper",
+    "gender": "Male",
+    "description": "A young and proud Lagos rapper",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

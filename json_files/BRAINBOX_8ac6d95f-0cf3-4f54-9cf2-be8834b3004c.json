@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "8ac6d95f-0cf3-4f54-9cf2-be8834b3004c",
+    "name": "abacha loves smoking",
+    "gender": "Male",
+    "description": "Abacha loves taking pipe",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

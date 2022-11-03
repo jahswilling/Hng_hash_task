@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "dea2f5d8-e3ba-4d3f-9a17-0a7edfd0c100",
+    "name": "kunle the alienguy",
+    "gender": "male",
+    "description": "People feared kunle because of his alien's colour",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

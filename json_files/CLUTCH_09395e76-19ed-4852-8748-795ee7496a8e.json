@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "09395e76-19ed-4852-8748-795ee7496a8e",
+    "name": "charles the exporter",
+    "gender": "male",
+    "description": "charles a business man an importer and exporter never to be caught idle",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

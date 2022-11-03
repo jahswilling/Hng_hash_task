@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "3ac5c186-bc14-4eb6-8567-cc818465a64f",
+    "name": " shola cool kid",
+    "gender": "male",
+    "description": "shola prefers to be alone because he hates stress",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1f99104c-e98b-4c9a-9891-00a481e86008",
+    "name": "simbi side eyed",
+    "gender": "female",
+    "description": "Simbi is reserved but doesn't allow anyone intimidate her.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

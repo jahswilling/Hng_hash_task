@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "15309dc5-e483-4658-b503-db85ba2c1722",
+    "name": "ada chewing bubble gum",
+    "gender": "Female",
+    "description": "Ada always chewing gum",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

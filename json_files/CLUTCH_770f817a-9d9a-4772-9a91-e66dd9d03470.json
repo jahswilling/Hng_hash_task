@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "770f817a-9d9a-4772-9a91-e66dd9d03470",
+    "name": "abdul the vibe",
+    "gender": "male",
+    "description": "abdul the life of the party and can never be caught unfresh",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

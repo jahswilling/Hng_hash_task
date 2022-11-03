@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "0ddbd22c-b3bb-4c72-9f51-0361480bbfa7",
+    "name": "hng newbie",
+    "gender": "Female",
+    "description": "A confused hng participant that cannot understand her project",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

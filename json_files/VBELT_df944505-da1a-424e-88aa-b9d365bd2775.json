@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "df944505-da1a-424e-88aa-b9d365bd2775",
+    "name": "adaora the choir mistress",
+    "gender": "Female",
+    "description": "Adaora, our able choir mistress that will take your boyfriend for vanishing.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

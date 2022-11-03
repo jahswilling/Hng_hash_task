@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "1bd95fb0-7b2e-4354-bebd-22f9cf70a1ca",
+    "name": "sandra money",
+    "gender": "female",
+    "description": "sandra likes getting and spending money",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "ca720bf9-5e47-4421-b38f-bc62162ae99e",
+    "name": "Agbala",
+    "gender": "Female",
+    "description": "Agbala is the stylish goddess of the future for the Igbo region.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

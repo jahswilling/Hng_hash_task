@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "36181230-6ac9-417f-af5c-23bdd2c25ecb",
+    "name": "mwembu the elder",
+    "gender": "male",
+    "description": "old but not so old, with yellow his favorite color",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

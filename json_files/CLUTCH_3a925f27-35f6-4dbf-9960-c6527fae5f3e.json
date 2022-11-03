@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "3a925f27-35f6-4dbf-9960-c6527fae5f3e",
+    "name": "adisa ibadan",
+    "gender": "male",
+    "description": "adisa the greatest man in the whole town of ibadan, is authority can never be questioned",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

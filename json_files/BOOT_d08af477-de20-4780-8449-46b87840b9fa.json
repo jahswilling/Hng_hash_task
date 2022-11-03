@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "d08af477-de20-4780-8449-46b87840b9fa",
+    "name": "burna morgan",
+    "gender": "female",
+    "description": "Morgan paints the town red with her red hair.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

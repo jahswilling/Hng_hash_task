@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "fbf43611-f267-4cba-bf4b-a3ffdc122589",
+    "name": "adebola omo oba",
+    "gender": "female",
+    "description": "Adebola loves soft life with her fathers wealth",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

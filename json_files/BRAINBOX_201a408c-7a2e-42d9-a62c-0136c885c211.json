@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "201a408c-7a2e-42d9-a62c-0136c885c211",
+    "name": "obi the biggest humanitarian",
+    "gender": "Male",
+    "description": "The biggest helper during the pandemic ",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

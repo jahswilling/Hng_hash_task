@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "41781a16-d2b8-4fc6-a1f4-b9fffc5c95ba",
+    "name": "isaya the track king",
+    "gender": "male",
+    "description": "isaya the traveller",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

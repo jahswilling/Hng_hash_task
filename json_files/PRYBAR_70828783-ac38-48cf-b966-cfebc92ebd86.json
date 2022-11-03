@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "70828783-ac38-48cf-b966-cfebc92ebd86",
+    "name": "tayo tailor",
+    "gender": "male",
+    "description": "a professional fashion designer, in quote",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

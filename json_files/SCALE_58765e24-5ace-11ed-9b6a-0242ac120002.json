@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "58765e24-5ace-11ed-9b6a-0242ac120002",
+    "name": "monica the smoker",
+    "gender": "Female",
+    "description": "Monica is never found without a pipe and loves to interject in every conversation",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

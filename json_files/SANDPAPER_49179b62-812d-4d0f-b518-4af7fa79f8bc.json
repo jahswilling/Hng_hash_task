@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "49179b62-812d-4d0f-b518-4af7fa79f8bc",
+    "name": "mwangaa the voice",
+    "gender": "male",
+    "description": "mwangaa the chief",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

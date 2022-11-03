@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c98db72e-49ac-4ca6-89d5-e00f5fbbcc45",
+    "name": "chidinma the model",
+    "gender": "female",
+    "description": "From Paris' runways, to London's streets, she's always in demand.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

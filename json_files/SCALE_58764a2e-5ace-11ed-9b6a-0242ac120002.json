@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "58764a2e-5ace-11ed-9b6a-0242ac120002",
+    "name": "timeyin the eccentic",
+    "gender": "Female",
+    "description": "Timeyin is as eccentric as they come with no care for others opinions",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

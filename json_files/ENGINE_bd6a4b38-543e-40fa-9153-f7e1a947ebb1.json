@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "bd6a4b38-543e-40fa-9153-f7e1a947ebb1",
+    "name": "pinky monky ponk",
+    "gender": "Female",
+    "description": "she love to dance the honky tonk",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

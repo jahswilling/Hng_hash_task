@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "871912a8-d96e-4594-b7b3-450d94ee6924",
+    "name": "waforte the first",
+    "gender": "male",
+    "description": "masked up man who does sleep a lot",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

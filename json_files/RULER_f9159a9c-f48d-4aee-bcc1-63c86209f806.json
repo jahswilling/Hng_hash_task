@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "f9159a9c-f48d-4aee-bcc1-63c86209f806",
+    "name": "segun the sharp",
+    "gender": "male",
+    "description": "Segun drives with caution and people love him for that",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

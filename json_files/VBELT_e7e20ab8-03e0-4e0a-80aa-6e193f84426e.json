@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "e7e20ab8-03e0-4e0a-80aa-6e193f84426e",
+    "name": "nneka the rainbow babe",
+    "gender": "Female",
+    "description": "Nneka, the happy rainbow babe with the vibes",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

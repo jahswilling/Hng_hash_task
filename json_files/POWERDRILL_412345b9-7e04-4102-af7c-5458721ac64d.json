@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "412345b9-7e04-4102-af7c-5458721ac64d",
+    "name": "Amara the hairstylist",
+    "gender": "Female",
+    "description": "Amara is truly your one stop shop for all your hair & beauty needs.",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

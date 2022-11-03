@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "46fd4821-04dd-4f65-9290-c130a00c4c93",
+    "name": "suli the amalaseller",
+    "gender": "female",
+    "description": "Suli sells amala , she is very rude, and they say thats the secret to her sweet food",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

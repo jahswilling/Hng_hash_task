@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "c7269d44-aab3-41e7-a54f-18a14f575a6b",
+    "name": "Lucy the fumigator",
+    "gender": "Female",
+    "description": "Lucy is nicknamed the pest hilter",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

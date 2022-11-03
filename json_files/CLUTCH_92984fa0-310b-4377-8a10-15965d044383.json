@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "92984fa0-310b-4377-8a10-15965d044383",
+    "name": "ade omo yoruba",
+    "gender": "male",
+    "description": "ade a yourba man takes pride in the yourba tribe",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

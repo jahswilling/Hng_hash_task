@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "5cabf9d9-882b-459e-9253-8c07eb045e2d",
+    "name": "eddy the community",
+    "gender": "Male",
+    "description": "Man of the people ",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}

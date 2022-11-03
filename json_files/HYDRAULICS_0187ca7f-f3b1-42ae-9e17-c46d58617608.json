@@ -1,0 +1,14 @@
+{
+    "format": "CHIP-0007",
+    "UUID": "0187ca7f-f3b1-42ae-9e17-c46d58617608",
+    "name": "Danjuma the shocked",
+    "gender": "Male",
+    "description": "A pensioneer who got told his bank is on distress",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": null,
+    "series_total": null,
+    "attributes": [],
+    "collection": {},
+    "data": {}
+}
