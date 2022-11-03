@@ -9,4 +9,4 @@ $ python3 create_hash.py
 ```
 
 # Hng hash task summary
-Format the CSV file to the same format as the Team Bevel.json file in the repo, then run "python3 create hash.py ". The script will generate a modified file with a json hash in a new column at the end, and the hashed json files will be saved in the json files folder.
+Format the CSV file to the same format as the Team Bevel.json file in the repo, then run "python3 create_hash.py ". The script will generate a modified file with a json hash in a new column at the end, and the hashed json files will be saved in the json files folder. Currently the script handles the name and description for each team. but can be update subsequently when the team data is updated.
